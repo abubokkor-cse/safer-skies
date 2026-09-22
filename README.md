@@ -1,13 +1,45 @@
-# Safer Skies - From EarthData to Action
-## Cloud Computing with Earth Observation Data for Predicting Cleaner, Safer Skies
+<div align="center">
 
-[![NASA Space Apps Challenge 2025](https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue.svg)](https://www.spaceappschallenge.org/2025/challenges/from-earthdata-to-action-cloud-computing-with-earth-observation-data-for-predicting-cleaner-safer-skies/)
-[![TEMPO Integration](https://img.shields.io/badge/NASA%20TEMPO-Integrated-red.svg)](#tempo-integration)
-[![Team AURA](https://img.shields.io/badge/Team-AURA-orange.svg)](#team)
+# 🌌 Safer Skies - From EarthData to Action
+### Cloud Computing with Earth Observation Data for Predicting Cleaner, Safer Skies
 
-## 🚀 NASA Space Apps Challenge 2025
+[![Global Nominee](https://img.shields.io/badge/NASA%20Space%20Apps%202025-Global%20Nominee%20🏆-FFD700.svg?style=for-the-badge&logo=nasa)](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)
+[![1st Runner-Up](https://img.shields.io/badge/Regional%20Event-1st%20Runner--Up%20🥈-C0C0C0.svg?style=for-the-badge)](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)
+<br/>
+[![Challenge](https://img.shields.io/badge/Challenge-From%20EarthData%20to%20Action-blue.svg)](https://www.spaceappschallenge.org/2025/challenges/from-earthdata-to-action-cloud-computing-with-earth-observation-data-for-predicting-cleaner-safer-skies/)
+[![Team AURA](https://img.shields.io/badge/Team-AURA%20(Rajshahi%2C%20Bangladesh)-orange.svg)](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)
+[![TEMPO Integration](https://img.shields.io/badge/NASA%20TEMPO-Integrated-red.svg)](#-nasa-tempo-integration)
+[![Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red.svg?logo=youtube)](https://youtu.be/YP16KuMhBQI?si=seDeZur4eUwz9bSY)
+[![License: MIT](LICENSE)](https://img.shields.io/badge/License-MIT-green.svg)
 
-*Addressing NASA Space Apps Challenge: "From EarthData to Action: Cloud Computing with Earth Observation Data for Predicting Cleaner, Safer Skies"*
+<br/><br/>
+
+![Safer Skies Homepage](homepage.png)
+
+</div>
+
+---
+
+## 🏆 Awards & Recognition — NASA Space Apps Challenge 2025
+
+> ### 🌟 Global Nominee
+> **Safer Skies** by **Team AURA** (Rajshahi, Bangladesh) was officially selected as a **Global Nominee** for the NASA Space Apps Challenge 2025!
+>
+> 🔗 **Official Project Page**: [Team AURA on NASA Space Apps Challenge](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)  
+> 🎥 **Video Presentation**: [Watch Demo on YouTube](https://youtu.be/YP16KuMhBQI?si=seDeZur4eUwz9bSY)  
+> 🛰️ **Challenge**: [From EarthData to Action: Cloud Computing with Earth Observation Data for Predicting Cleaner, Safer Skies](https://www.spaceappschallenge.org/2025/challenges/from-earthdata-to-action-cloud-computing-with-earth-observation-data-for-predicting-cleaner-safer-skies/)
+
+> ### 🥈 Regional 1st Runner-Up
+> Prior to receiving the Global Nominee selection, **Team AURA** won **1st Runner-Up** at the **NASA Space Apps Challenge — Rajshahi Regional Event**!
+
+<br/>
+
+<div align="center">
+  <img src="prizetaking_time.jpg" alt="Team AURA Receiving 1st Runner-Up Prize at NASA Space Apps Challenge Rajshahi" width="850" />
+  <p><em>📸 Team AURA receiving the 1st Runner-Up Prize at the NASA Space Apps Challenge Rajshahi Regional Event</em></p>
+</div>
+
+---
 
 ## 🛰️ Project Overview
 
@@ -65,7 +97,7 @@ Safer Skies integrates NASA's **Tropospheric Emissions: Monitoring of Pollution 
 - **Quiet Hours**: Customizable notification scheduling
 - **Multi-Channel Delivery**: Email, push notifications, and web alerts
 
-## � Target Stakeholders
+## 🎯 Target Stakeholders
 
 **Addressing Challenge Requirements for Key User Groups:**
 
@@ -91,7 +123,7 @@ Safer Skies integrates NASA's **Tropospheric Emissions: Monitoring of Pollution 
 - **Tourism Boards**: Air quality insights for visitor experience optimization
 - **Citizen Scientists**: Community-based data collection and validation
 
-## �🏗️ System Architecture
+## 🏗️ System Architecture
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -274,7 +306,7 @@ Safer Skies integrates NASA's **Tropospheric Emissions: Monitoring of Pollution 
 - **Predictive modeling**: Days-ahead forecasting capabilities
 - **Smart alerting**: Dangerous air quality threshold monitoring
 
-## 🏆 NASA Space Apps Challenge 2025
+## 🚀 NASA Space Apps Challenge Objectives
 
 **"From EarthData to Action: Cloud Computing with Earth Observation Data for Predicting Cleaner, Safer Skies"**
 
@@ -324,11 +356,12 @@ Safer Skies integrates NASA's **Tropospheric Emissions: Monitoring of Pollution 
 - **5-Day Global Forecasting**: Atmospheric predictions worldwide using NASA datasets
 - **Fire Detection Integration**: NASA FIRMS wildfire monitoring with impact assessment
 
-## 🤝 Team AURA
+## 🤝 Team AURA (Rajshahi, Bangladesh)
 
-**Meet our team leader: MD Abu Bokkor** — full-stack developer and video editor, building tools that turn NASA's Earth data into simple, actionable solutions.
+**🏆 Global Nominee & 🥈 Regional 1st Runner-Up — NASA Space Apps Challenge 2025**
 
-**Fahmida Akter** — research specialist and designer, ensuring every insight is backed by science and presented clearly for users.
+- **MD Abu Bokkor** ([@abubokkor](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)) — Team Leader, Full-Stack Developer & Video Editor. Designing and developing end-to-end architectures that transform NASA Earth observation datasets into actionable public health intelligence.
+- **Mst. Fahmida Akter** ([@fahmida](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)) — Research Specialist & UI/UX Designer. Grounding every feature in environmental and atmospheric science, ensuring clean, intuitive presentation and high data fidelity.
 
 ## 📄 License
 
@@ -336,24 +369,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **NASA** for providing open access to TEMPO and GEOS-CF data
+- **NASA** for providing open access to TEMPO, GEOS-CF, and FIRMS Earth observation data
 - **EPA** for maintaining the AirNow monitoring network
-- **Space Apps Challenge** for fostering innovation in space technology
-- **Open Source Community** for the amazing tools and libraries
+- **NASA Space Apps Challenge** for fostering innovation in space and Earth technology
+- **Open Source Community** for the incredible tools and libraries
 
-## � References
+## 📚 References
 
 - **NASA TEMPO**: [TEMPO Level-2-3 Trace Gas and Clouds User Guide V1.0](https://asdc.larc.nasa.gov/documents/tempo/guide/TEMPO_Level-2-3_trace_gas_clouds_user_guide_V1.0.pdf)
 - **NASA GEOS-CF**: [GEOS Composition Forecast Documentation](https://gmao.gsfc.nasa.gov/pubs/docs/Knowland1204.pdf)
 - **EPA AQI Standards**: [Technical Assistance Document for Reporting the Daily AQI](https://www.airnow.gov/publications/air-quality-index/technical-assistance-document-for-reporting-the-daily-aqi/)
 - **NASA FIRMS**: [MODIS Collection 6 Active Fire Product User Guide](https://lpdaac.usgs.gov/documents/876/MOD14_User_Guide_v6.pdf)
 
-## �📞 Contact
+## 📞 Project Links & Contact
 
-- **Live Demo**: [URL will be added]
+- **NASA Space Apps Project**: [Team AURA (aura33) — Global Nominee](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)
+- **Demo Video**: [YouTube Presentation](https://youtu.be/YP16KuMhBQI?si=seDeZur4eUwz9bSY)
 - **GitHub**: [https://github.com/yourusername/safer-skies](https://github.com/yourusername/safer-skies)
-- **Team**: Team AURA - NASA Space Apps Challenge 2025
-
 ---
 
 *Built with ❤️ for the NASA Space Apps Challenge 2025*
