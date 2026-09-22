@@ -236,7 +236,7 @@ Safer Skies integrates NASA's **Tropospheric Emissions: Monitoring of Pollution 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/safer-skies.git
+   git clone https://github.com/abubokkor-cse/safer-skies.git
    cd safer-skies
    ```
 
@@ -385,7 +385,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **NASA Space Apps Project**: [Team AURA (aura33) — Global Nominee](https://www.spaceappschallenge.org/2025/find-a-team/aura33/?tab=details)
 - **Demo Video**: [YouTube Presentation](https://youtu.be/YP16KuMhBQI?si=seDeZur4eUwz9bSY)
-- **GitHub**: [https://github.com/yourusername/safer-skies](https://github.com/yourusername/safer-skies)
+- **GitHub**: [https://github.com/abubokkor-cse/safer-skies](https://github.com/abubokkor-cse/safer-skies)
 ---
 
 *Built with ❤️ for the NASA Space Apps Challenge 2025*
